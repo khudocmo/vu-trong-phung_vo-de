@@ -1,4 +1,8 @@
-# Vũ Trọng Phụng - Vỡ Đê
+---
+title: Vỡ Đê
+author: Vũ Trọng Phụng
+language: vi
+---
 
 # Phần thứ nhất
 
